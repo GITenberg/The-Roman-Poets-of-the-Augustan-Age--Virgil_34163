@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36826'
     url: http://www.gutenberg.org/2009/agents/36826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34163#The-Roman-Poets-of-the-Augustan-Age--Virgil
 gutenberg_issued: '2010-10-29'
 gutenberg_type: Text
 identifiers:
