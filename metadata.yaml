@@ -1,0 +1,29 @@
+_repo: The-Roman-Poets-of-the-Augustan-Age--Virgil_34163
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sellar, W. Y. (William Young)
+    alias: Sellar, William Young
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '36826'
+    url: http://www.gutenberg.org/2009/agents/36826
+description: ''
+gutenberg_issued: '2010-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Augustus, Emperor of Rome, 63 B.C.-14 A.D.-- Influence'
+- !lcsh 'Latin poetry -- History and criticism'
+- !lcsh 'Virgil -- Criticism and interpretation'
+- !lcc 'PA'
+title: 'The Roman Poets of the Augustan Age: Virgil'
+url: http://www.gutenberg.org/ebooks/34163
